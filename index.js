@@ -28,9 +28,3 @@ if(funcToUse == 1){
 }else{
   console.log('Invalid option!! Please try again');
 }
-
-
-
-
-
-
